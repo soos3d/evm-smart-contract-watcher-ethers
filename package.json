@@ -19,6 +19,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "ethers": "^5.7.2"
+    "ethers": "^6.13.4"
   }
 }
